@@ -1,0 +1,3 @@
+[submodule "sunlifedapp"]
+	path = sunlifedapp
+	url = https://github.com/suncoinlife/sunlifedapp
